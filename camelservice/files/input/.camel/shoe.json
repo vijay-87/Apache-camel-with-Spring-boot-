@@ -1,0 +1,24 @@
+[{
+
+  "orderId":1,
+  "product": "Shoes",
+  "type": "canvas",
+  "description": "canvas is good ",
+  "price": 28.1,
+  "rating": 4
+}, {
+ 
+  "orderId":2,
+  "product": "Cloths",
+  "type": "Denim",
+  "description": "Denim is good ",
+  "price": 28,
+  "rating": 4
+}, {
+  "orderId":3,
+  "product": "Bag",
+  "type": "handbag",
+  "description": "hand bag is good ",
+  "price": 20,
+  "rating": 4
+}]
